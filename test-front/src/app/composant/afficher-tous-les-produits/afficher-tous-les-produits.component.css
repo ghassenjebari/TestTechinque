@@ -1,0 +1,32 @@
+
+.mat-table {
+  width: 70%;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 70%;
+  box-shadow: none;
+  border: 1px solid #ccc;
+  margin: 100px;
+}
+.mat-header-cell {
+  height: 80px;
+  font-weight: bold;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+}
+
+.mat-row {
+
+  margin-block: 20px;
+  height: 70px;
+}
+
+
+.search-input {
+  width: 200px;
+  margin-right: 16px;
+}
+
+.action-button {
+  margin-right: 8px;
+}
